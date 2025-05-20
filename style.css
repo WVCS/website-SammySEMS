@@ -1,3 +1,17 @@
-body {
+h2 {
+  color: white;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+   text-transform: lowercase;
+  text-shadow: 2px 2px 5px red;
+}
 
+body{
+  background-color: pink;
+}
+
+img:hover{
+  width:300px;
+   transform: scaleX(-1);
+  
 }
