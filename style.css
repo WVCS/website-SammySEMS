@@ -47,7 +47,7 @@ li a:hover{
 img {
   float: center;
   width: 15%; /* three containers (use 25% for four, and 50% for two, etc) */
-  padding: 100px; /* if you want space between the images */
+  padding: 87px; /* if you want space between the images */
 
 }
 
